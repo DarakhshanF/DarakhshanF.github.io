@@ -4,6 +4,9 @@
 
 ![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=DarakhshanF&color=blue)
+
+
 Welcome to my corner of GitHub! I'm a data science wizard who loves turning data into stories, insights, and predictions. When I'm not wrangling data, you can find me exploring the latest tech trends, hiking trails, or experimenting with new recipes in the kitchen.
 
 ## 🚀 About Me
