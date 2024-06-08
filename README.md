@@ -37,20 +37,16 @@ Welcome to my corner of GitHub! I'm a data science wizard who loves turning data
 
 Here are some of the cool projects I've been working on:
 
-- [**Project 1**](https://github.com/DarakhshanF/project1): A predictive model for housing prices using machine learning techniques.
-- [**Project 2**](https://github.com/DarakhshanF/project2): An interactive data visualization dashboard for COVID-19 data analysis.
-- [**Project 3**](https://github.com/DarakhshanF/project3): A sentiment analysis tool for social media posts using NLP.
+- [**Django eCommerce application**](https://github.com/DarakhshanF/Django-eComm-app): A predictive model for housing prices using machine learning techniques.
 
 ## 📫 Connect with Me
 
-- **Email**: [darakhshan@example.com](mailto:darakhshan@example.com)
+- **Email**: [darakhshanfazail@gmail.com](mailto:darakhshanfazail@gmail.com)
 - **LinkedIn**: [linkedin.com/in/darakhshan-fazail](https://www.linkedin.com/in/darakhshan-fazail)
-- **Twitter**: [@darakhshan](https://twitter.com/darakhshan)
+- **Twitter**: [@dfazail](https://twitter.com/dfazail)
 
 ## 📝 Latest Blog Posts
 
-- [**Understanding Machine Learning**](https://yourblog.com/machine-learning)
-- [**Data Science with Python**](https://yourblog.com/data-science-python)
-- [**AWS for Data Scientists**](https://yourblog.com/aws-data-scientists)
+- [**Practical Data Cleaning Techniques for Clearer Insights**](https://medium.com/@darakhshanfazail/practical-data-cleaning-techniques-for-clearer-insights-659a2a222d9c)
 
 Thanks for stopping by! Don't forget to star ⭐ some of my repositories if you find them interesting!
